@@ -1,0 +1,16 @@
+body{
+
+}
+h2{
+	color:#f00;
+	text-decoration:underline;
+}
+.h2sec{
+	color:green;
+}
+#h2third{
+	color:blue;
+}
+.first{
+	color:yellow;
+}

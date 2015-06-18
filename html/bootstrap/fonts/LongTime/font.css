@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'LongTime';
+	src: url('./LongTime.eot');
+	src: local('LongTime'), url('./LongTime.woff') format('woff'), url('./LongTime.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_7308">Text with this font applied</p> */
+.fontsforweb_fontid_7308 {
+	font-family: 'LongTime' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

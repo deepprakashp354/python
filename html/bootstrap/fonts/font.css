@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Budhrg';
+	src: url('./Budhrg.eot');
+	src: local('Budhrg'), url('./Budhrg.woff') format('woff'), url('./Budhrg.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_380">Text with this font applied</p> */
+.fontsforweb_fontid_380 {
+	font-family: 'Budhrg' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

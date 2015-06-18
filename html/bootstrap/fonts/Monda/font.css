@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'MondaBold';
+	src: url('./MondaBold.eot');
+	src: local('MondaBold'), url('./MondaBold.woff') format('woff'), url('./MondaBold.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_47461">Text with this font applied</p> */
+.fontsforweb_fontid_47461 {
+	font-family: 'MondaBold' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
